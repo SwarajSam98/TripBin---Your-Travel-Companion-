@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logo/Screenshot 2025-05-06 111831.png" alt="TripBin Logo" width="300"/>
+</p>
+
 # ✈️ TripBin - Your Smart Travel Companion
 
 
